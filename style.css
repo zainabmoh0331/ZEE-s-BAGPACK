@@ -1,0 +1,28 @@
+/* body{
+    background-color: rgb(211, 131, 51);
+}
+
+#heropic{
+    animation-name: bag;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes bag{
+    from{
+        rotate: 0deg;
+    }
+    to{
+        rotate: 100deg;
+    }
+}
+.mainbag{
+    animation-name: bbag;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes bag{
+    from{
+        
+    }
+} */
